@@ -1,9 +1,9 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
 <div align="center">
-  <a href="https://github.com/victorpoliveira">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=victorpoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpoliveira&layout=compact&langs_count=8&theme=dark" />
+  <a href="https://github.com/oliveiravictorp">
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=oliveiravictorp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiravictorp&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 <br>
