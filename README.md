@@ -1,14 +1,13 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-<div align="center">
-  <a href="https://github.com/oliveiravictorp">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=oliveiravictorp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiravictorp&layout=compact&langs_count=8&theme=dark" />
-</div>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D221&width=435&lines=Tech+Leader;Full-Stack+Web+Developer;Elixir+Lover" alt="Typing SVG" />
+</a>
 
 <br>
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
   <img align="center" alt="Phoenix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
